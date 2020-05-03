@@ -132,10 +132,10 @@ disableHugoGeneratorInject = false
 
   # And you can even create generic menu
   [menu]
-  	[[menu.main]]
-    	identifier = "about"
-    	name       = "About"
-    	url        = "about/"
+  	#[[menu.main]]
+    #	identifier = "about"
+    #	name       = "About"
+    #	url        = "about/"
   	[[menu.main]]
     	identifier = "blog"
     	name       = "Blog"
