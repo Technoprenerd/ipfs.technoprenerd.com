@@ -12,7 +12,7 @@ series:
   - first
 ---
 
-Welcome to my blog on Cyber Security and Blockhain. During the past few years I've been following the IPFS project, which is interesting to say the least. In this post I'll describe what IPFS is, how it operates and which tools are available. This in order to get you started with IPFS.
+Welcome to my blog on Cyber Security and Blockchain. During the past few years I've been following the IPFS project, which is interesting to say the least. In this post I'll describe what IPFS is, how it operates and which tools are available. This in order to get you started with IPFS.
 
 
 <a href="https://ipfs.io/">
@@ -29,7 +29,7 @@ Once meme.jpg is very popular, the website that handles the requests needs to sc
 For this, Content Delivery Networks (CDN's) came into existance and spread the meme.jpg image between different geographic locations, so that the user can download the image faster.
 However, this isn't quite sustainable and scalable either, since every meme.jpg picture needs to reside on different CDN's all around the world.
 
-Now, Image this: 
+Now, Imagine this: 
 
 >What if your coworker downloaded that meme video from youtube, and instead of you downloading that video from youtube directly, your coworker can share it directly with you?
 
