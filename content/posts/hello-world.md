@@ -123,7 +123,7 @@ This was to point the CNAME record of <code>_dnslink.ipfs.</code> subdomain to m
 <h2>Conclusion</h2>
 
 By now you know what the IPFS network is, how it operates and how you can get started.
-Furthermore, the reason why it is important and hope that you see the added value of it and what it means for the future of the Web 3.0. 
+Furthermore, the reason why it is important and hope that you see the added value of it, plus what it means for the future of the Web 3.0. 
 
 
 We've only just started what's possible and where the future will take us! 
