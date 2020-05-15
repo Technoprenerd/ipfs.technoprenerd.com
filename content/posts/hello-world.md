@@ -102,7 +102,7 @@ Since this can be time consuming, automated deployments are the way to go.
 The service provided by [Fleek](https://fleek.co) is of great use to help with this. Think of it as Travis for IPFS deployments. In essence, Fleek links a public github repository and uploads the repository contents to the IPFS network ***everytime*** a change is detected (with pinning enabled). Isn't this great?
 What's more, it has a great UI/UX and supportive community behind it.
 
-Now that we'ver got our static files setup on automated deployments, we can continue with the domain name.
+Now that we've got our static files setup on automated deployments, we can continue with the domain name.
 
 <h3>DNS for IPFS</h3>
 
