@@ -34,7 +34,7 @@ Now, Imagine this:
 >What if your coworker downloaded that meme video from youtube, and instead of you downloading that video from youtube directly, your coworker can share it directly with you?
 
 
-This is basically what IPFS does, letting users run their own IPFS systems which become a global decentralised CDN. It increases speed and latency, without putting resource constraints on the system providing the content system.
+This is basically what IPFS does, letting users run their own IPFS systems which become a global decentralised CDN. It increases speed and latency, without putting resource constraints on the system providing the content.
 
 The technical differences between the Internet and IPFS are **location-addressing** and **content-addressing**. The [technical docs](https://docs-beta.ipfs.io/concepts/) of IPFS explains it quite well.
 
@@ -45,7 +45,7 @@ Large companies like [Netflix](https://blog.ipfs.io/2020-02-14-improved-bitswap-
 Since IPFS is best for hosting static content, such as images or this blog, there are multiple ways to host it. But first, we need to add files. 
 
 The following is an IPFS address of an image - [https://gateway.ipfs.io/ipfs/QmPL9KnRbE4qBkSsazNM9YXb3NXwnMhmeg4BtHGYY8HoyE](https://gateway.ipfs.io/ipfs/QmPL9KnRbE4qBkSsazNM9YXb3NXwnMhmeg4BtHGYY8HoyE).
-As you can see, the last part of the is the Content IDentifier (which can be translated to the hash of the file).
+As you can see, the last part of the url is the Content IDentifier or CID (which can be translated to the hash of the file).
 Like this <code>https://ipfs.io/ipfs/ CID  </code>.
 
 <h3>Adding files</h3>
