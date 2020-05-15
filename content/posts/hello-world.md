@@ -38,7 +38,7 @@ This is basically what IPFS does, letting users run their own IPFS systems which
 
 The technical differences between the Internet and IPFS are **location-addressing** and **content-addressing**. The [technical docs](https://docs-beta.ipfs.io/concepts/) of IPFS explains it quite well.
 
-Large companies like [Netflix](blog.ipfs.io/2020-02-14-improved-bitswap-for-container-distribution/) and [Cloudflare](https://blog.cloudflare.com/distributed-web-gateway/) are already running it, so why wouldn't you give it a try?
+Large companies like [Netflix](https://blog.ipfs.io/2020-02-14-improved-bitswap-for-container-distribution/) and [Cloudflare](https://blog.cloudflare.com/distributed-web-gateway/) are already running it, so why wouldn't you give it a try?
 
 <h2>Hosting content on IPFS</h2>
 
