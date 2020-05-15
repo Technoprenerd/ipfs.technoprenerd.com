@@ -5,7 +5,7 @@ draft: false
 
 ---
 
-Welcome to the presonal blog of Technoprenerd, AKA: Yann van Ewijk. My nickname Technoprenerd stands for Technology, Entrepreneurship and Nerd. All of those topics are close to my heart.
+Welcome to the personal blog of Technoprenerd, AKA: Yann van Ewijk. My nickname Technoprenerd stands for Technology, Entrepreneurship and Nerd. All of those topics are close to my heart.
 
 This blog will be about Cyber Security and Blockchain, since these are my main interests and passions. In the posts I'll go into detail of my projects of security and blockchain, which you might find interesting.
 
